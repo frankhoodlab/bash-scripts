@@ -1,1 +1,1 @@
-Bienvenido/a a mi repositorio de scripbs en Bash; aqui tienes todas las herramientas script que he creado en mi camino a experto en ciberseguridad
+Welcome to my Bash scripts repository. Here you will find the tools I’ve created during my journey to becoming the best cybersecurity professional in the world.
